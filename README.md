@@ -6,7 +6,7 @@ Estudante de Ciências da Computação e em transição de carreira para a área
 
 * 🎓 **Formação:** Cursando o 2º período de Bacharelado em Ciências da Computação na Universidade Estácio de Sá (Previsão de conclusão: 01/2030).
   
-* 💼 **Experiência anterior:** Empreendedor na gestão de Esmalteria Própria (2018-Atual)[cite: 2], desenvolvendo habilidades em liderança, planejamento, controle de processos e resolução de problemas.
+* 💼 **Experiência anterior:** Empreendedor na gestão de Esmalteria Própria (2018-Atual), desenvolvendo habilidades em liderança, planejamento, controle de processos e resolução de problemas.
   
 * 🎯 **Objetivo:** Aplicar conhecimentos técnicos em programação e IA enquanto continuo evoluindo na engenharia de software.
 
